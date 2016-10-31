@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "09b239d2090d46844d34f809d7703959"
+build_time: [531151530, 417823000]
+inputs:
+  "/Users/alexfu/Downloads/Grocr-starter/Grocr/LoginViewController.swift": [530781864, 0]
+  "/Users/alexfu/Downloads/Grocr-starter/Grocr/GroceryListTableViewController.swift": [530966408, 0]
+  "/Users/alexfu/Downloads/Grocr-starter/Grocr/GroceryItem.swift": [531150730, 0]
+  "/Users/alexfu/Downloads/Grocr-starter/Grocr/OnlineUsersTableViewController.swift": [530782436, 0]
+  "/Users/alexfu/Downloads/Grocr-starter/Grocr/User.swift": [523366864, 0]
+  "/Users/alexfu/Downloads/Grocr-starter/Grocr/AppDelegate.swift": [530783140, 0]
