@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		82ED40741DC02FD400E74907 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 82ED40731DC02FD400E74907 /* GoogleService-Info.plist */; };
+		82BA14971DC9F03A00643776 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 82BA14961DC9F03A00643776 /* GoogleService-Info.plist */; };
 		941A68C9047CFC613264BFB7 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F599D9265F4B40571F432E78 /* libPods.a */; };
 		BB2385621B3DD5AB0079CD01 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2385611B3DD5AB0079CD01 /* AppDelegate.swift */; };
 		BB2385641B3DD5AB0079CD01 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2385631B3DD5AB0079CD01 /* LoginViewController.swift */; };
@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		82ED40731DC02FD400E74907 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		82BA14961DC9F03A00643776 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		82ED40751DC08FD300E74907 /* Grocr.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Grocr.entitlements; sourceTree = "<group>"; };
 		9BA2A2DB5BA4733818152B9B /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		A898E3AE11425E4495FAC93A /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
@@ -64,7 +64,7 @@
 		BB2385531B3DD5AB0079CD01 = {
 			isa = PBXGroup;
 			children = (
-				82ED40731DC02FD400E74907 /* GoogleService-Info.plist */,
+				82BA14961DC9F03A00643776 /* GoogleService-Info.plist */,
 				BB23855E1B3DD5AB0079CD01 /* Grocr */,
 				BB23855D1B3DD5AB0079CD01 /* Products */,
 				5BCB7DE7572521D09DC0AA00 /* Pods */,
@@ -221,7 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB2385671B3DD5AB0079CD01 /* Main.storyboard in Resources */,
-				82ED40741DC02FD400E74907 /* GoogleService-Info.plist in Resources */,
+				82BA14971DC9F03A00643776 /* GoogleService-Info.plist in Resources */,
 				BB23856C1B3DD5AB0079CD01 /* LaunchScreen.xib in Resources */,
 				BB2385691B3DD5AB0079CD01 /* Images.xcassets in Resources */,
 			);
@@ -407,9 +407,9 @@
 				DEVELOPMENT_TEAM = 6A7K9VGHXX;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Grocr/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = rw.firebase.gettingstarted;
+				PRODUCT_BUNDLE_IDENTIFIER = AlexFu.MyMasaka1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -432,9 +432,9 @@
 				DEVELOPMENT_TEAM = 6A7K9VGHXX;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Grocr/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = rw.firebase.gettingstarted;
+				PRODUCT_BUNDLE_IDENTIFIER = AlexFu.MyMasaka1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Grocr/Grocr-Bridging-Header.h";
