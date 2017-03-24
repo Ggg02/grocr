@@ -8,7 +8,7 @@
 * Skills: 
     * Language: swift, Objective-C , C
     * Frameworks experience: UIKit, SpriteKit , GamePlayKit,nodejs , Embedded linux,WDM ,RasberryPi,
-    * please visit my github page with some gif of UI I developed.  https://goo.gl/4yrVG9   
+    * please visit my github page with some gif of UI I developed.  http://goo.gl/mK1FpO  
 	* RF Instrument RED es303340 test program with SCPI/c#
 	* Filebase: real time data sync between multiple clients.
 	* SpriteKit: tileMap , spriteNode . pathFind , stateMachine.
