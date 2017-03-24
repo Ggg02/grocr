@@ -19,21 +19,22 @@
 * Work  Experience:
    * Instrument test developer@Greatvast inc Taipei.  2017.2-Now
    * Technical director@Taipei inc Taipei 2013-2016
-   * Software plpayer/architecturer @Compal Inc Taipei 2010-2013
+   * Software planner/architecturer @Compal Inc Taipei 2010-2013
    * Embedded system developer@ MTK, XCUTE, iaSolution,Tecom . 
 
 * Profolio:  
 	
 
    - Booking System APP
-  
-   ```
+   
+ ```
  1. coding in swift 3.0 
  2. use Firebase to real time data sync between different mobile clients.  
  3. Support Facebook login , Google login , id-password login.
  4.  notification,#coreData 
- ```
- [demo video](https://youtu.be/Uu4bA6-zPD0)
+```
+
+ demo video : https://youtu.be/Uu4bA6-zPD0
 
  * https://itunes.apple.com/us/app/keyboardgame-funny/id1187188236?mt=8
 ```
