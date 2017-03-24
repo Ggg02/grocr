@@ -24,7 +24,7 @@
    * Embedded system developer@ MTK, XCUTE, iaSolution,Tecom . 
 
 * Profolio:  
-
+	
 
    - Booking System APP
   
@@ -55,9 +55,13 @@
    ```
    The above apps ALL developed by me. 
    ```
-
-* Some UI of above Apps. 
-
+- EasyTool ,Mac screen capture folder Easy Setting.
+	
+* Some UI of above Apps.
+ 
+![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/phy.gif)
+![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/FTG.gif)
+![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/.gif)
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/ui1.gif)
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/ui4.gif)
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/ui5.gif)
