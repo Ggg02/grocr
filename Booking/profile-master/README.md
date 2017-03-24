@@ -34,7 +34,7 @@
  4.  notification,#coreData 
 ```
 
-[](https://youtu.be/Uu4bA6-zPD0) demo video
+demo video:https://youtu.be/Uu4bA6-zPD0 
 
  * EasyTool ,Mac screen capture folder Easy Setting.
  
