@@ -14,11 +14,11 @@
 	* SpriteKit: tileMap , spriteNode . pathFind , stateMachine.
     * Third party:firebase, OpenCV .
 	* Tools: git, Dash, vs code, Charles. 
-	
+	* others : Strong Embedded skill (up 10 years for Embeddded experience about I2C , Bring up , USB 2.0 driver,UART , Feature Phone JVM porting,MMI)
 
 * Work  Experience:
    * Instrument test developer@Greatvast inc Taipei.  2017.2-Now
-   * Technical director@Taipei inc Taipei 2013-2016
+   * Technical director@Zhenhang inc Taipei 2013-2016
    * Software planner/architecturer @Compal Inc Taipei 2010-2013
    * Embedded system developer@ MTK, XCUTE, iaSolution,Tecom . 
 
