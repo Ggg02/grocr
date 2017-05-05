@@ -61,7 +61,6 @@ demo video:https://youtu.be/Uu4bA6-zPD0
  
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/phy.gif)
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/FTG.gif)
-![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/.gif)
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/ui1.gif)
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/ui4.gif)
 ![](https://github.com/Ggg02/grocr/blob/master/Booking/profile-master/ui5.gif)
