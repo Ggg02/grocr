@@ -7,17 +7,23 @@
  
 * Skills: 
     * Language: swift, Objective-C , C
+    * Advantage : Embedded , Algorithm , Analysis, Speed.
     * Frameworks experience: UIKit, SpriteKit , GamePlayKit,nodejs , Embedded linux,WDM ,RasberryPi,
     * please visit my github page with some gif of UI I developed.  http://goo.gl/mK1FpO  
 	* RF Instrument RED es303340 test program with SCPI/c#
 	* Filebase: real time data sync between multiple clients.
 	* SpriteKit: tileMap , spriteNode . pathFind , stateMachine.
-    * Third party:firebase, OpenCV .
 	* Tools: git, Dash, vs code, Charles. 
 	* others : Strong Embedded skill (up 10 years for Embeddded experience about I2C , Bring up , USB 2.0 driver,UART , Feature Phone JVM porting,MMI)
-
+	* Recently completed project and done : 
+		* libuvc add h264 
+		* CDN lib packet  / youtobe/fb/mixer/niconico/twitch . /get streamky , uploadfile ..
+		* device firmware update (Reverse Engineering
+): usb driver / app drive /firmware . since there are not any code in device . use usb sniffer for Reverse Engineering.
+		* webRTC /ios APP /signal server/firmware ,over firewell
+	* 6 months 6 times Best staff at AverMedia . ( RD party)
 * Work  Experience:
-   * Instrument test developer@Greatvast inc Taipei.  2017.2-Now
+   * Mac Deputy manager@AverMedia Inc Taipei 2017-now
    * Technical director@Zhenhang inc Taipei 2013-2016
    * Software planner/architecturer @Compal Inc Taipei 2010-2013
    * Embedded system developer@ MTK, XCUTE, iaSolution,Tecom . 
