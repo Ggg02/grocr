@@ -6,9 +6,9 @@
 
  
 * Skills: 
-    * Language: swift, Objective-C , C
+    * Language: swift, Objective-C , C , C++
     * Advantage : Embedded , Algorithm , Analysis, Speed.
-    * Frameworks experience: UIKit, SpriteKit , GamePlayKit,nodejs , Embedded linux,WDM ,RasberryPi,
+    * Frameworks experience: UIKit, SpriteKit , GamePlayKit,nodejs , Embedded linux,WDM ,RasberryPi,USB protocol.webRTC
     * please visit my github page with some gif of UI I developed.  http://goo.gl/mK1FpO  
 	* RF Instrument RED es303340 test program with SCPI/c#
 	* Filebase: real time data sync between multiple clients.
@@ -21,7 +21,7 @@
 		* device firmware update (Reverse Engineering
 ): usb driver / app drive /firmware . since there are not any code in device . use usb sniffer for Reverse Engineering.
 		* webRTC /ios APP /signal server/firmware ,over firewell
-	* 6 months 6 times Best staff at AverMedia . ( RD party)
+	* 8 months 8 times Best staff at AverMedia . ( RD party)
 * Work  Experience:
    * Mac Deputy manager@AverMedia Inc Taipei 2017-now
    * Technical director@Zhenhang inc Taipei 2013-2016
